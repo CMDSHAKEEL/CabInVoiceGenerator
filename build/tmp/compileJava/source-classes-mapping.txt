@@ -1,2 +1,8 @@
+com/bridgelabz/InvoiceSummary.java
+ com.bridgelabz.InvoiceSummary
+com/bridgelabz/RIdeRepository.java
+ com.bridgelabz.RideRepository
+com/bridgelabz/Ride.java
+ com.bridgelabz.Ride
 com/bridgelabz/InvoiceGenerator.java
  com.bridgelabz.InvoiceGenerator
